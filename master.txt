@@ -1,1 +1,2 @@
 This is my first git command
+make some changes
